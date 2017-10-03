@@ -38,5 +38,14 @@
     "tough-cookie": "~2.3.0",
     "tunnel-agent": "~0.4.1",
     "uuid": "^3.0.0"
+  },
+  "devDependencies": {
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.2"
+  },
+  "scripts": {
+    "list": "ls -l",
+    "pipe-test": "ls -l | tail -n1",
+    "run-package-bin": "standard | snazzy"
   }
 }
