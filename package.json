@@ -44,8 +44,13 @@
     "standard": "^10.0.2"
   },
   "scripts": {
+    "nversion": "node -v",
     "list": "ls -l",
     "pipe-test": "ls -l | tail -n1",
     "run-package-bin": "standard | snazzy"
+  },
+  "engines": {
+    "npm": "~2.15",
+    "node": ">=6.3"
   }
 }
