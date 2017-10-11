@@ -71,7 +71,6 @@
     "sequelize": "3.19.3",
     "sequelize-cli": "^2.3.1",
     "stripe": "^4.15.1",
-    "templatizer": "https://github.com/davidlbatey/templatizer/archive/0.3.3.tar.gz",
     "uuid": "^2.0.3",
     "webshot": "0.18.0",
     "winston": "^2.1.1",
